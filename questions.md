@@ -14,7 +14,7 @@ Can you elaborate on how your code "doesn't work"? What were you expecting, and 
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
 ###[Q] Too many ways to solve the problem
-There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to use when you have a specific question about something you have attempted to do.
+There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do.
 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post [a minimal example of what needs to change](http://$SITEURL$/help/mcve), and fully explain what needs to be modified.
