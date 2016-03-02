@@ -1,0 +1,2 @@
+###[Q] What errors [PHP]?
+What does it mean "not working"? Do you get any errors? Add [error reporting](http://php.net/manual/en/function.error-reporting.php) at the top of your file(s): `ini_set("display_errors", 1); error_reporting(E_ALL);`
