@@ -14,7 +14,7 @@ Don't post answers to clarify another's answer. Since you don't have enough rep 
 Just linking to your own library or tutorial is not a good answer. Linking to it, explaining why it solves the problem, providing code on how to do so and disclaiming that you wrote it makes for a better answer. See: [**What signifies “Good” self promotion?**](http://meta.stackexchange.com/q/182212/200235)
 
 ###[A] Question as an answer
-Welcome to $SITENAME$! Please make sure that your answer is phrased *as an answer*, not as a question.
+Please make sure that your answer is phrased *as an answer*, not as a question.
 
 ###[A] Link Only Other Stack Exchange
 Please don't post link only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
@@ -26,11 +26,20 @@ I know you're excited, but please try to keep your language under control. Think
 Take a moment to read through the [editing help](http://$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites.
 
 ###[A] Code only answer
-While this code snippet may solve the question, [including an explanation](http://meta.stackexchange.com/questions/114762/explaining-entirely-code-based-answers) really helps to improve the quality of your post. Remember that you are answering the question for readers in the future, and those people might not know the reasons for your code suggestion.
+While this code snippet may solve the question, [including an explanation](http://meta.stackexchange.com/questions/114762/explaining-entirely-code-based-answers) really helps to improve the quality of your post. Remember that you are answering the question for readers in the future, and those people might not know the reasons for your code suggestion. Please also try not to crowd your code with explanatory comments, this reduces the readability of both the code and the explanations!
 
 ###[A] Borderline Link-Only answer
 This is a borderline [link-only answer](http://meta.stackexchange.com/q/8231/213671). You should expand your answer to include as much information here, and use the link only for reference.
 
 ###[A] Borderline-spam link answer
 Please be careful with linking to your own content on different sites, you don't want to be a [spammer](http://$SITEURL$/help/promotion). You should be including the majority of the content here, and use the link only as a reference.
+
+###[A] Thanks answer
+Please don't add "thanks" as answers. Invest some time in the site and you will gain sufficient [privileges](//$SITEURL$/privileges) to upvote answers you like, which is the $SITENAME$ way of saying thank you.
+
+###[A] OP using an answer for further information
+Please use the *Post answer* button only for actual answers. You should [edit] your original question to add additional information.
+
+###[A] OP adding a new question as an answer
+If you have another question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button.
 
