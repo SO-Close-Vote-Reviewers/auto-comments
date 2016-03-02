@@ -6,3 +6,6 @@ What does it mean "not working"? Do you get any errors? Add [error reporting](ht
 
 ###[Q] SQL Injection
 [Your script is at risk for SQL Injection Attacks.](http://stackoverflow.com/q/60174)
+
+###[Q] Parsing html with regex
+[Please don't try to parse HTML with regex. Use a html-parse instead](http://stackoverflow.com/a/1732454/3933332)
