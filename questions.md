@@ -30,3 +30,12 @@ $SITENAME$ is a Question and Answer site, not a code translation service. Try to
 
 ###[Q] "Where do I start?" question
 Questions that ask "where do I start" are typically too broad and are not a good fit for this site. People have their own method for approaching the problem and because of this there cannot be a _correct_ answer. Give a good read over [**Where to Start**](http://meta.programmers.stackexchange.com/questions/6366/where-to-start/6367#6367), then address your post.
+
+###[Q] More than one question asked
+It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions.
+
+###[Q] Give me teh codez plz
+$SITENAME$ is not a free code writing service, please show your code/effort and what the actual problem is.
+
+###[Q] Ask good!
+Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)
