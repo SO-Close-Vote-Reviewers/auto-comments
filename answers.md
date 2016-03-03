@@ -1,3 +1,9 @@
+###[A] Question as answer
+If you have a new question please [ask](http://$SITEURL$/questions/ask) so, but make sure you know what is [on-topic](http://$SITEURL$/help/on-topic) and you know [how to ask](http://$SITEURL$/help/how-to-ask). Don't post a question as an answer.
+
+###[A] Me too!
+Don't post *"me too"* as an answer, you can [up-vote](http://$SITEURL$/privileges/vote-up) the question if you have sufficient reputation. 
+
 ###[A] Link Only same site
 Please don't post link only answers to other $SITENAME$ questions. Instead, vote/flag to close as duplicate, or, if the question is not a duplicate, *tailor the answer to this specific question.*
 
