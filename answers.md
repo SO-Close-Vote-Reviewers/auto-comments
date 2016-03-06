@@ -5,7 +5,7 @@ While this code snippet may solve the question, [including an explanation](http:
 This post isn't an actual attempt at answering the question. Please note [$SITENAME$ doesn't work like a discussion forum](http://$SITEURL$/about), it is a Q&A site where every post is either a question or an answer to a question. Posts can also have [comments](http://$SITEURL$/help/privileges/comment) - small sentences like this one - that can be used to critique or request clarification from an author. This should be either a comment or a [new question](http://$SITEURL$/questions/ask).
 
 ###[A] Me too!
-Please don't add *"Me too"* as an answer. It doesn't actually provide an answer to the question and can be perceived as noise by its future visitors. If you have a different but related question, then [ask](http://$SITEURL$/questions/ask) it (reference this one if it will help provide context). If you're interested in this specific question, you can show your interest by [upvoting](http://$SITEURL$/help/privileges/vote-up) it or leaving a [comment](http://$SITEURL$/help/privileges/comment) once you have enough [reputation](http://$SITEURL$/help/whats-reputation).
+Please don't add *"Me too"* as an answer. It doesn't actually provide an answer to the question. If you have a different but related question, then [ask](http://$SITEURL$/questions/ask) it (reference this one if it will help provide context). If you're interested in this specific question, you can show your interest by [upvoting](http://$SITEURL$/help/privileges/vote-up) it or leaving a [comment](http://$SITEURL$/help/privileges/comment) once you have enough [reputation](http://$SITEURL$/help/whats-reputation).
 
 ###[A] Thanks!
 Please don't add _"thanks"_ as answers. They don't actually provide an answer to the question, and can be perceived as noise by its future visitors. Once you [earn](http://meta.stackoverflow.com/q/146472) enough [reputation](http://$SITEURL$/help/whats-reputation), you will gain privileges to [upvote answers](http://$SITEURL$/help/privileges/vote-up) you like. This way future visitors of the question will see a higher vote count on that answer, and the answerer will also be rewarded with reputation points. See [Why is voting important](http://$SITEURL$/help/why-vote).
@@ -28,6 +28,9 @@ A link to a potential solution is always welcome, but please [add context around
 ###[A] Answering off-topic / bad question
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](http://meta.stackoverflow.com/q/276572/1768232)
 
+###[A] Code as image
+[Please don't post your code as an image.](http://meta.stackoverflow.com/q/285551/3933332)
+
 ###[A] Identical answers
 Please don't post identical answers to multiple questions. Post one good answer, then vote/flag to close the other questions as duplicates. If the question is not a duplicate, *tailor your answers to the question.*
 
@@ -36,6 +39,9 @@ Please use the *Post answer* button only for actual answers. You should [edit] y
 
 ###[A] OP adding a new question as an answer
 If you have another question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button.
+
+###[A] Non English answer
+Please write your answer in English, since [$SITENAME$ is an English site.](http://meta.stackexchange.com/q/13676)
 
 ###[A] Self Promotion
 Just linking to your own library or tutorial is not a good answer. Linking to it, explaining why it solves the problem, providing code on how to do so and disclaiming that you wrote it makes for a better answer. See: [**What signifies “Good” self promotion?**](http://meta.stackexchange.com/q/182212/200235)

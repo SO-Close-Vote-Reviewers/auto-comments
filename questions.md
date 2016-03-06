@@ -10,6 +10,9 @@ Take a moment to read through the [editing help](http://$SITEURL$/editing-help) 
 ###[Q] Ask OP to edit question instead of adding info in comments
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
+###[Q] Code as image
+[Please don't post your code as an image.](http://meta.stackoverflow.com/q/285551/3933332)
+
 ###[Q] "It doesn't work" with no exception/error details
 Can you elaborate on how your code "doesn't work"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details. Please [edit] these details in or we may not be able to help.
 
@@ -33,6 +36,9 @@ It is preferred if you can post separate questions instead of combining your que
 
 ###[Q] Asking for code translation
 $SITENAME$ is a Question and Answer site, not a code translation service. Try to translate the code yourself first, then come to us when you are stuck, making sure to show us [what you have tried](http://$SITEURL$/help/mcve).
+
+###[Q] Non English question
+Please write your question in English, since [$SITENAME$ is an English site.](http://meta.stackexchange.com/q/13676)
 
 ###[Q] Software Rec. question
 Unfortunately, questions asking us to recommend or find a book, tool, software library, tutorial or other off-site resource are off-topic here. However, you may find better luck [SoftwareRecs.SE](http://softwarerecs.stackexchange.com/tour). Remember to read [their question requirements](http://softwarerecs.stackexchange.com/help/on-topic) as they are more strict than this site.
