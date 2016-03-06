@@ -28,6 +28,9 @@ A link to a potential solution is always welcome, but please [add context around
 ###[A] Answering off-topic / bad question
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](http://meta.stackoverflow.com/q/276572/1768232)
 
+###[A] Code as image
+[Please don't post your code as an image.](http://meta.stackoverflow.com/q/285551/3933332)
+
 ###[A] Identical answers
 Please don't post identical answers to multiple questions. Post one good answer, then vote/flag to close the other questions as duplicates. If the question is not a duplicate, *tailor your answers to the question.*
 
@@ -36,6 +39,9 @@ Please use the *Post answer* button only for actual answers. You should [edit] y
 
 ###[A] OP adding a new question as an answer
 If you have another question, please ask it by clicking the [Ask Question](//$SITEURL$/questions/ask) button.
+
+###[A] Non English answer
+Please write your answer in English, since [$SITENAME$ is an English site.](http://meta.stackexchange.com/q/13676)
 
 ###[A] Self Promotion
 Just linking to your own library or tutorial is not a good answer. Linking to it, explaining why it solves the problem, providing code on how to do so and disclaiming that you wrote it makes for a better answer. See: [**What signifies “Good” self promotion?**](http://meta.stackexchange.com/q/182212/200235)
