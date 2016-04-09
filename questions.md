@@ -1,3 +1,9 @@
+###[Q] Spam!!
+This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+
+###[Q] Spam!! (Punctuation)
+This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
 
