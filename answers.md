@@ -4,6 +4,9 @@ This answer is spam. Flag it as spam by ***clicking the "flag" link***!
 ###[A] Spam!! (Punctuation)
 This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
 
+###[A] Garbage (non-intelligible gibberish or troll meaningless content)
+This is a garbage post by a 1-rep unregistered user without any meaningful contributions. Flag as "Rude or abusive" to destroy it quickly without poorly seeding the spam detector (see [this Meta answer](http://meta.stackoverflow.com/a/317611/4174897)).
+
 ###[A] Code only answer
 While this code snippet may solve the question, [including an explanation](//meta.stackexchange.com/questions/114762/explaining-entirely-code-based-answers) really helps to improve the quality of your post. Remember that you are answering the question for readers in the future, and those people might not know the reasons for your code suggestion. Please also try not to crowd your code with explanatory comments, this reduces the readability of both the code and the explanations!
 
