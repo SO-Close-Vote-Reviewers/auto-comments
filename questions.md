@@ -1,8 +1,8 @@
 ###[Q] Spam!!
-This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725)!
 
 ###[Q] Spam!! (Punctuation)
-This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725/4174897)!
+This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725)!
 
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
@@ -20,7 +20,7 @@ The tags you have been using are not appropriate for this question. Please take 
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
 ###[Q] Code as image
-[Please don't post your code as an image.](//meta.stackoverflow.com/q/285551/3933332)
+[Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
 
 ###[Q] "It doesn't work" with no exception/error details
 Can you elaborate on how your code "doesn't work"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details. Please [edit] these details in or we may not be able to help.
