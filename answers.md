@@ -32,7 +32,7 @@ Please don't post link only answers to other $SITENAME$ questions. Instead, vote
 Please don't post link only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
 
 ###[A] Link only answer
-A link to a potential solution is always welcome, but please [add context around the link](//meta.stackoverflow.com/a/8259) so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline. Take into account that being _barely more than a link to an external site_ is a possible reason as to [Why and how are some answers deleted?](//$SITEURL$/help/deleted-answers).
+A link to a potential solution is always welcome, but please [add context around the link](//meta.stackoverflow.com/a/8259) so your fellow users will have some idea what it is and why it’s there. **Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline.** Take into account that being _barely more than a link to an external site_ is a possible reason as to [Why and how are some answers deleted?](//stackoverflow.com/help/deleted-answers).
 
 ###[A] Answering off-topic / bad question
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](//meta.stackoverflow.com/q/276572)
