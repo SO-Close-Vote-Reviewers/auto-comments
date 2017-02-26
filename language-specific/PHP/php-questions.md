@@ -1,11 +1,11 @@
 ###[Q] What errors?
-What does it mean "not working"? Do you get any errors? Add [error reporting](http://php.net/manual/en/function.error-reporting.php) at the top of your file(s): `ini_set("display_errors", 1); error_reporting(E_ALL);` and tell us what you get.
+What does it mean "not working"? Do you get any errors? Add [error reporting](//php.net/manual/function.error-reporting.php) at the top of your file(s): `ini_set("display_errors", 1); error_reporting(E_ALL);` and tell us what you get.
 
 ###[Q] mysql_* API
-[**Please, don't use `mysql_*` functions in new code**](http://$SITEURL$/q/12859942). They are no longer maintained [and are officially deprecated](https://wiki.php.net/rfc/mysql_deprecation). See the [**red box**](http://php.net/manual/en/function.mysql-connect.php)? Learn about [*prepared statements*](http://en.wikipedia.org/wiki/Prepared_statement) instead, and use [PDO](http://php.net/pdo) or [MySQLi](http://php.net/mysqli).
+[**Please don't use `mysql_*` functions in new code**](//stackoverflow.com/q/12859942)! They are no longer maintained [and are officially deprecated](//wiki.php.net/rfc/mysql_deprecation). See the [**red box**](//php.net/manual/function.mysql-connect.php)? Learn about [*prepared statements*](//en.wikipedia.org/wiki/Prepared_statement) instead, and use [PDO](//php.net/pdo) or [MySQLi](//php.net/mysqli) - [this article](//php.net/manual/mysqlinfo.api.choosing.php) can help you choose. If you go with PDO, [here is a good tutorial](http://wiki.hashphp.org/PDO_Tutorial_for_MySQL_Developers).
 
 ###[Q] SQL Injection
-[Your script is at risk for SQL Injection Attacks.](http://stackoverflow.com/q/60174)
+[Your script is at risk for SQL Injection Attacks.](//stackoverflow.com/q/60174)
 
 ###[Q] Parsing html with regex
-[Please don't try to parse HTML with regex. Use a html-parse instead](http://stackoverflow.com/a/1732454/3933332)
+[Please don't try to parse HTML with regex. Use an HTML parser instead.](//stackoverflow.com/a/1732454)
