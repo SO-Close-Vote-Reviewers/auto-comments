@@ -5,7 +5,7 @@ This question is spam. Flag it as spam by ***clicking the "flag" link*** instead
 This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725)!
 
 ###[Q] Vandalism
-Please do not vandalize your posts. Once you've posted a question, it belongs to the Stack Overflow community at large (under the CC-by-SA license).  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](http://meta.stackoverflow.com/questions/323395/what-is-the-proper-route-for-a-dissociation-request)
+Please do not vandalize your posts.  By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
 
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
