@@ -3,7 +3,7 @@ I'm voting to close this question because [licensing advice is off-topic on $SIT
 
 ###[C] Open Source Licensing
 I'm voting to close this question as off-topic because [licensing advice is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/274964). Open source licensing questions can be asked on [OpenSource.SE](//opensource.stackexchange.com/help/on-topic). Legal questions may be asked on [Law.SE](//law.stackexchange.com/)
- 
+
 ###[C] We are not Customer Support
 I'm voting to close this question as off-topic because [we are not customer support for your favorite company](//meta.stackoverflow.com/questions/255745/).
 
