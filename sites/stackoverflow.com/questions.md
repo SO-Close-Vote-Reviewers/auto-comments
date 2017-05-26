@@ -57,3 +57,6 @@ Unfortunately, questions asking us to recommend or find a book, tool, software l
 
 ###[Q] CodeReview question
 It seems that your code currently works, and you are looking to improve it. Generally these questions are too opinionated for this site, but you might find better luck at [CodeReview.SE](//codereview.stackexchange.com/tour). Remember to read [their requirements](//codereview.stackexchange.com/help/on-topic) as they are a bit more strict than this site.
+
+###[Q] Homework question without effort
+Questions asking for homework help must include a summary of the work you've done so far to solve the problem, and a description of the difficulty you are having solving it. Please read [How to ask homework questions](//meta.stackoverflow.com/questions/334822/how-do-i-ask-and-answer-homework-questions) and [edit] your post.
