@@ -40,6 +40,9 @@ All that has been posted is a program description. However, we need you to [ask 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post [a minimal example of what needs to change](//$SITEURL$/help/mcve), and fully explain what needs to be modified.
 
+###[Q] Wall of code
+You seem to have posted more code than what would be reasonnable for your issue. Please read [ask] and how to make a [mcve], providing a MCVE helps users answer your question and future users relate to your issue.
+
 ###[Q] "Where do I start?" question
 Questions that ask "where do I start" are typically too broad and are not a good fit for this site. People have their own method for approaching the problem and because of this there cannot be a _correct_ answer. Give a good read over [**Where to Start**](//meta.programmers.stackexchange.com/questions/6366/where-to-start/6367#6367), then address your post.
 
