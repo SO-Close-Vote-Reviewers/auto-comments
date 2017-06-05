@@ -63,3 +63,6 @@ It seems that your code currently works, and you are looking to improve it. Gene
 
 ###[Q] Homework question without effort
 Questions asking for homework help must include a summary of the work you've done so far to solve the problem, and a description of the difficulty you are having solving it. Please read [How to ask homework questions](//meta.stackoverflow.com/questions/334822/how-do-i-ask-and-answer-homework-questions) and [edit] your post.
+
+###[Q] Demanding urgency of volunteers
+Please read [Under what circumstances may I add “urgent” or other similar phrases to my question, in order to obtain faster answers?](https://meta.stackoverflow.com/q/326569) - the summary is that this is not an ideal way to address volunteers, and is probably counterproductive to obtaining answers. Please refrain from adding this to your questions.
