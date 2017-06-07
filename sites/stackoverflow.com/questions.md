@@ -1,9 +1,3 @@
-###[Q] Spam!!
-This question is spam. Flag it as spam by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725)!
-
-###[Q] Spam!! (Punctuation)
-This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link*** instead of [voting to close](http://meta.stackoverflow.com/a/295725)!
-
 ###[Q] Vandalism
 Please do not vandalize your posts.  By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
 
