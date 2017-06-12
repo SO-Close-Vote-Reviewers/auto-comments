@@ -59,7 +59,7 @@ It seems that your code currently works, and you are looking to improve it. Gene
 Questions asking for homework help must include a summary of the work you've done so far to solve the problem, and a description of the difficulty you are having solving it. Please read [How to ask homework questions](//meta.stackoverflow.com/questions/334822/how-do-i-ask-and-answer-homework-questions) and [edit] your post.
 
 ###[Q] Demanding urgency of volunteers
-Please read [Under what circumstances may I add “urgent” or other similar phrases to my question, in order to obtain faster answers?](https://meta.stackoverflow.com/q/326569) - the summary is that this is not an ideal way to address volunteers, and is probably counterproductive to obtaining answers. Please refrain from adding this to your questions.
+Please read [Under what circumstances may I add “urgent” or other similar phrases to my question, in order to obtain faster answers?](//meta.stackoverflow.com/q/326569) - the summary is that this is not an ideal way to address volunteers, and is probably counterproductive to obtaining answers. Please refrain from adding this to your questions.
 
 ###[Q] Possible suicide Intl
 It sounds like you’re going through a hard time. I’d really like to help you, but unfortunately, we’re not well equipped to do so here. Your best option is probably to call [a suicide hotline](//suicide.org/international-suicide-hotlines.html). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. If calling is not good, you can [chat with them live online](//suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx). It might not help, but what’s the harm?
