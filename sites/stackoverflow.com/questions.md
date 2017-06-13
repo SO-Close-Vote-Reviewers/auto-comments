@@ -38,7 +38,7 @@ We won't know how to make the changes to your existing code base without seeing 
 You seem to have posted more code than what would be reasonable for your issue. Please read [ask] and how to make a [mcve], providing a MCVE helps users answer your question and future users relate to your issue.
 
 ###[Q] "Where do I start?" question
-Questions that ask "where do I start" are typically too broad and are not a good fit for this site. People have their own method for approaching the problem and because of this there cannot be a _correct_ answer. Give a good read over [**Where to Start**](//meta.programmers.stackexchange.com/questions/6366/where-to-start/6367#6367), then address your post.
+Questions that ask "where do I start" are typically too broad and are not a good fit for this site. People have their own method for approaching the problem and because of this there cannot be a _correct_ answer. Give a good read over [**Where to Start**](https://softwareengineering.meta.stackexchange.com/questions/6366/where-to-start/6367#6367), then address your post.
 
 ###[Q] More than one question asked
 It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions.
