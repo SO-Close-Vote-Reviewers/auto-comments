@@ -37,6 +37,9 @@ A link to a potential solution is always welcome, but please [add context around
 ###[A] Answering off-topic / bad question
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](//meta.stackoverflow.com/q/276572)
 
+###[A] Tool recommendation for a tool request
+Thank you for participating to Stack Overflow, however please note that the question you have answered is off-topic as per the [help/on-topic] since it is a tool request. Answers to such questions tend to be of [poor quality](//meta.stackexchange.com/a/8259) and quickly become stale (what might have been a good resource two years ago may simply not exist anymore). You can flagged this question as off-topic by clicking the "flag" link once you have sufficient reputation.
+
 ###[A] Code as image
 [Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
 
