@@ -40,6 +40,9 @@ Please don't post answers on obviously off topic / bad questions! [See: **Should
 ###[A] Tool recommendation for a tool request
 Thank you for participating to Stack Overflow, however please note that the question you have answered is off-topic as per the [help/on-topic] since it is a tool request. Answers to such questions tend to be of [poor quality](//meta.stackexchange.com/a/8259) and quickly become stale (what might have been a good resource two years ago may simply not exist anymore). You can flagged this question as off-topic by clicking the "flag" link once you have sufficient reputation.
 
+###[A] Poitnig out a typo
+Please don't post answers only pointing out a typographical issue or a missing character. Such answers are unlikely to help future visitors since they are specific to OP's code. Instead, flag or vote to close the question as off-topic as per the [help/on-topic].
+
 ###[A] Code as image
 [Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
 
