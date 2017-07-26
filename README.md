@@ -4,6 +4,8 @@ This repository holds [Auto Comments][1] for the use on [Stack Overflow][2] (and
 
 The comments are in a raw format so you can copy&paste them into the "import/export" window.
 
+Want to have your options alway be in sync with this repo? Follow the instructions at [comments.socvr.org](https://comments.socvr.org/).
+
 ## Contributing
 
 If you have write access to this repository, please commit directly to master. This repo is meant to be a "community wiki" for auto-comments.
