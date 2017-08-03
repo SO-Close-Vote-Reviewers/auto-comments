@@ -25,6 +25,9 @@ This does not provide an answer to the question. To critique or request clarific
 ###[A] Many formatting issues
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites.
 
+###[A] Same answer posted to multiple questions
+Please don't add [the same answer](link) to multiple questions. Answer the best one and flag the rest as duplicates. See [Is it acceptable to add a duplicate answer to several questions?](http://meta.stackexchange.com/q/104227/347985)
+
 ###[A] Duplicate link only
 Please don't post link only answers to other $SITENAME$ questions. Instead, vote/flag to close as duplicate, or, if the question is not a duplicate, *tailor the answer to this specific question.*
 
