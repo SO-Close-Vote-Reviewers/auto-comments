@@ -9,3 +9,6 @@ I'm voting to close this question as off-topic because [we are not customer supp
 
 ###[C] SEO
 I'm voting to close this question as off-topic because it is about SEO, not programming. SEO questions may be asked on [Webmasters.SE](//webmasters.stackexchange.com/)
+
+###[C] Project Management
+I'm voting to close this question because [project management is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/343841) You can ask these questions on [SoftwareEngineering.SE](//softwareengineering.stackexchange.com) and [ProjectManagement.SE](//pm.stackexchange.com)
