@@ -67,3 +67,5 @@ It sounds like you’re going through a hard time. I’d really like to help you
 ###[Q] Possible suicide US
 It sounds like you’re going through a really hard time. I’d really like to help you, but unfortunately, we’re not well-equipped to do so here. Your best option is probably to call the [National Suicide Prevention Lifeline](//suicidepreventionlifeline.org/). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. US: +1-800-273-8255. If calling is not good, they can [chat with you live online](http://suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx). It might not help, but what’s the harm?
 
+###[Q] Gender assumptions of readers
+Hi there. A number of women in our community sometimes say that every time they see gendered assumptions about software engineers, they feel a bit excluded. I wonder, could you try to avoid adding male-oriented greetings and pronouns in your posts, so as to make for a more welcoming environment? Thank you.
