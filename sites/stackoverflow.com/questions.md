@@ -69,3 +69,4 @@ It sounds like you’re going through a really hard time. I’d really like to h
 
 ###[Q] Gender assumptions of readers
 Hi there. A number of women in our community sometimes say that every time they see gendered assumptions about software engineers, they feel a bit excluded. I wonder, could you try to avoid adding male-oriented greetings and pronouns in your posts, so as to make for a more welcoming environment? Thank you.
+
