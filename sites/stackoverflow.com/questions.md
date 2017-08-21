@@ -71,5 +71,5 @@ It sounds like you’re going through a really hard time. I’d really like to h
 Questions that ask "please help me" tend to be looking for highly localised guidance, or in some cases, ongoing or private assistance, which is not suited to our Q&A format. It is also rather vague, and is better replaced with a more specific question. Please read [Why is “Can someone help me?” not an actual question?](//meta.stackoverflow.com/questions/284236/why-is-can-someone-help-me-not-an-actual-question).
 
 ###[Q] Gender assumptions of readers
-Hi there. A number of women in our community sometimes say that every time they see gendered assumptions about software engineers, they feel a bit excluded. I wonder, could you try to avoid adding male-oriented greetings and pronouns in your posts, so as to make for a more welcoming environment? Thank you.
+Hi there. A number of folks in our community sometimes say that every time they see gendered assumptions about software engineers, they worry about people feeling excluded. I wonder, could you try to avoid adding male-oriented greetings and pronouns in your posts, so as to make for a more welcoming environment? Thank you.
 
