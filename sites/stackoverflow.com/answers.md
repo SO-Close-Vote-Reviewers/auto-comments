@@ -75,3 +75,12 @@ Please be careful with linking to your own content on different sites, you don't
 
 ###[A] Spam
 Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
+
+###[A] Vandalise your post
+Do not vandalise your post. This may result in an [answer ban](http://$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
+
+###[A] Profanity
+Do not use profanity gratuitously on the site.
+
+###[A] Sensitive information
+Please don't put sensitive information into public posts
