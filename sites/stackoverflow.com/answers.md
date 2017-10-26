@@ -43,7 +43,7 @@ Please don't post answers on obviously off topic / bad questions! [See: **Should
 ###[A] Tool recommendation for a tool request
 Thank you for participating to Stack Overflow, however please note that the question you have answered is off-topic as per the [help/on-topic] since it is a tool request. Answers to such questions tend to be of [poor quality](//meta.stackexchange.com/a/8259) and quickly become stale (what might have been a good resource two years ago may simply not exist anymore). You can flag this question as off-topic by clicking the "flag" link once you have sufficient reputation.
 
-###[A] Poitnig out a typo
+###[A] Pointing out a typo
 Please don't post answers only pointing out a typographical issue or a missing character. Such answers are unlikely to help future visitors since they are specific to OP's code. Instead, flag or vote to close the question as off-topic as per the [help/on-topic].
 
 ###[A] Code as image
@@ -76,8 +76,8 @@ Please be careful with linking to your own content on different sites, you don't
 ###[A] Spam
 Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
-###[A] Vandalise your post
-Do not vandalise your post. This may result in an [answer ban](http://$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
+###[A] Vandalize your post
+Do not vandalize your post. This may result in an [answer ban](http://$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
 
 ###[A] Profanity
 Do not use profanity gratuitously on the site.
