@@ -1,5 +1,5 @@
 ###[Q] Vandalism
-Please do not vandalize your posts.  By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.  If you would like to disassociate this post from your account, see [What is the proper route for a disassociation request?](https://meta.stackoverflow.com/q/323395)
+Please do not vandalize your posts.  By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)). By SE policy, any vandalism will be reverted.
 
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
