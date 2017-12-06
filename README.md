@@ -1,10 +1,10 @@
 # SO Close Vote Reviewers | Auto Comments Listing
 
-This repository holds [Auto Comments][1] for the use on [Stack Overflow][2] (and [other Stack Exchange sites][3]).
+This repository holds [Auto Comments][1] for use on [Stack Overflow][2] (and [other Stack Exchange sites][3]).
 
 The comments are in a raw format so you can copy&paste them into the "import/export" window.
 
-Want to have your options alway be in sync with this repo? Follow the instructions at [comments.socvr.org](https://comments.socvr.org/).
+Want to have your options always be in sync with this repo? Follow the instructions at [comments.socvr.org](https://comments.socvr.org/).
 
 ## Contributing
 

@@ -11,7 +11,7 @@ $SITENAME$ is not a free code writing service, please show your code/effort and 
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites. The better your post looks, the easier it is for others to read and understand it.
 
 ###[Q] Wrong tags
-The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouse over on the tags you are using when asking a question. Thank you!
+The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouseover on the tags you are using when asking a question. Thank you!
 
 ###[Q] Ask OP to edit question instead of adding info in comments
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
@@ -77,7 +77,7 @@ Hi there. A number of folks in our community sometimes say that every time they 
 Please be careful with linking to your own content on different sites, you don't want to be a [spammer](//$SITEURL$/help/promotion). You should not be linking to your website, unless it's necessary to the question. Use example.com as a domain name instead.
 
 ###[Q] Spam!!
-This  question is spam. Flag it as spam by ***clicking the "flag" link***! 
+This  question is spam. Flag it as spam by ***clicking the "flag" link***!
 
 ###[Q] Spam!! (Punctuation)
 This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
