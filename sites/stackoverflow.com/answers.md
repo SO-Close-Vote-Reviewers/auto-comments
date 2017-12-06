@@ -29,10 +29,10 @@ Take a moment to read through the [editing help](//$SITEURL$/editing-help) in th
 Please don't add [the same answer](link) to multiple questions. Answer the best one and flag the rest as duplicates. See [Is it acceptable to add a duplicate answer to several questions?](http://meta.stackexchange.com/q/104227/347985)
 
 ###[A] Duplicate link only
-Please don't post link only answers to other $SITENAME$ questions. Instead, vote/flag to close as duplicate, or, if the question is not a duplicate, *tailor the answer to this specific question.*
+Please don't post link-only answers to other $SITENAME$ questions. Instead, vote/flag to close as duplicate, or, if the question is not a duplicate, *tailor the answer to this specific question.*
 
 ###[A] Link only to other SE
-Please don't post link only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
+Please don't post link-only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
 
 ###[A] Link only answer
 A link to a potential solution is always welcome, but please [add context around the link](//meta.stackoverflow.com/a/8259) so your fellow users will have some idea what it is and why it’s there. **Always quote the most relevant part of an important link, in case the target site is unreachable or goes permanently offline.** Take into account that being _barely more than a link to an external site_ is a possible reason as to [Why and how are some answers deleted?](//$SITEURL$/help/deleted-answers).
