@@ -74,13 +74,13 @@ This is a borderline [link-only answer](//meta.stackexchange.com/q/8231). You sh
 Please be careful with linking to your own content on different sites, you don't want to be a [spammer](//$SITEURL$/help/promotion). You should be including the majority of the content here, and use the link only as a reference.
 
 ###[A] Spam
-Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
+Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], especially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
 ###[A] Vandalize your post
 Do not vandalize your post. This may result in an [answer ban](//$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](//creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.
 
 ###[A] Profanity
-[Be Nice.](//stackoverflow.com/help/be-nice) Do not use profanity gratuitously on the site.
+[Be Nice.](//$SITEURL$/help/be-nice) Do not use profanity gratuitously on the site.
 
 ###[A] Sensitive information
 Please don't put sensitive information into public posts
