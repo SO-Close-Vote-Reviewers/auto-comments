@@ -1,14 +1,14 @@
 ###[A] Spam!!
-This answer is spam. Flag it as spam by ***clicking the "flag" link***!
+This answer is spam. [Flag it as spam](//meta.stackexchange.com/a/58035/206345) by ***clicking the "flag" link***!
 
 ###[A] Spam!! (Punctuation)
-This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
+This answer contains a hidden link in punctuation. [It is spam and should be flagged](//meta.stackexchange.com/a/58035/206345) by ***clicking the "flag" link***!
 
 ###[A] Garbage (non-intelligible gibberish or troll meaningless content)
-This is a garbage post by a 1-rep unregistered user without any meaningful contributions. Flag as "Rude or abusive" to destroy it quickly without poorly seeding the spam detector (see [this Meta answer](http://meta.stackoverflow.com/a/317611/4174897)).
+This is a garbage post by a 1-rep unregistered user without any meaningful contributions. [Flag as "Rude or abusive"](//meta.stackexchange.com/a/58035/206345) to destroy it quickly without poorly seeding the spam detector.
 
 ###[A] Code only answer
-While this code snippet may solve the question, [including an explanation](//meta.stackexchange.com/questions/114762/explaining-entirely-code-based-answers) really helps to improve the quality of your post. Remember that you are answering the question for readers in the future, and those people might not know the reasons for your code suggestion. Please also try not to crowd your code with explanatory comments, this reduces the readability of both the code and the explanations!
+Thank you for this code snippet, which might provide some limited, immediate help. A [proper explanation would greatly improve its long-term value](//meta.stackexchange.com/q/114762/206345) by showing _why_ this is a good solution to the problem, and would make it more useful to future readers with other, similar questions. Please [edit] your answer to add some explanation, including the assumptions you've made.
 
 ###[A] Question as answer
 This post isn't an actual attempt at answering the question. Please note [$SITENAME$ doesn't work like a discussion forum](//$SITEURL$/about), it is a Q&A site where every post is either a question or an answer to a question. Posts can also have [comments](//$SITEURL$/help/privileges/comment) - small sentences like this one - that can be used to critique or request clarification from an author. This should be either a comment or a [new question](//$SITEURL$/questions/ask).
@@ -26,7 +26,7 @@ This does not provide an answer to the question. To critique or request clarific
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites.
 
 ###[A] Same answer posted to multiple questions
-Please don't add [the same answer](link) to multiple questions. Answer the best one and flag the rest as duplicates. See [Is it acceptable to add a duplicate answer to several questions?](http://meta.stackexchange.com/q/104227/347985)
+Please don't add the same answer to multiple questions. Answer the best one and flag the rest as duplicates. See [Is it acceptable to add a duplicate answer to several questions?](//meta.stackexchange.com/q/104227/206345)
 
 ###[A] Duplicate link only
 Please don't post link-only answers to other $SITENAME$ questions. Instead, vote/flag to close as duplicate, or, if the question is not a duplicate, *tailor the answer to this specific question.*
@@ -77,10 +77,13 @@ Please be careful with linking to your own content on different sites, you don't
 Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
 ###[A] Vandalize your post
-Do not vandalize your post. This may result in an [answer ban](http://$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.
+Do not vandalize your post. This may result in an [answer ban](//$SITEURL$/help/answer-bans). By posting on the Stack Exchange network, you've granted a non-revocable right for SE to distribute that content (under the [CC BY-SA 3.0 license](//creativecommons.org/licenses/by-sa/3.0/)).  By SE policy, any vandalism will be reverted.
 
 ###[A] Profanity
-Do not use profanity gratuitously on the site.
+[Be Nice.](//stackoverflow.com/help/be-nice) Do not use profanity gratuitously on the site.
 
 ###[A] Sensitive information
 Please don't put sensitive information into public posts
+
+###[A] Offer only 1:1 help
+While helping individuals, we also try to produce a permanent source of future help for others - so answers that produce a tangible record are preferred. Before offering 1:1 help, read [this Meta post](//meta.stackoverflow.com/q/280603/1677912) and reconsider making the effort to document the answer. 
