@@ -12,3 +12,9 @@ I'm voting to close this question as off-topic because it is about SEO, not prog
 
 ###[C] Project Management
 I'm voting to close this question because [project management is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/343841) You can ask these questions on [SoftwareEngineering.SE](//softwareengineering.stackexchange.com) and [ProjectManagement.SE](//pm.stackexchange.com)
+
+###[C] General App Store Policy
+I'm voting to close this because questions about [app store policies are off-topic on $SITENAME$](//https://meta.stackoverflow.com/q/272165). You will need to ask the company itself about their policies, as they are subject to change.
+
+###[C] Apple iTunes Store Policy
+I'm voting to close this question because questions about [iTunes App Store policies are off-topic on $SITENAME$](//https://meta.stackoverflow.com/q/272165). Some questions may be on topic at [Apple.SE](//apple.stackexchange.com/help/on-topic)
