@@ -35,7 +35,7 @@ Please don't post link-only answers to other $SITENAME$ questions. Instead, vote
 Please don't post link-only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
 
 ###[A] Link only answer
-Thank you for this link, which might provide some limited, immediate help. An answer [should include sufficient context around the link](//meta.stackoverflow.com/a/8259) so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, to make it more useful to future readers with other, similar questions. In addition, other users tend to respond negatively to answers which are [barely more than a link to an external site](//meta.stackexchange.com/q/225370), and they [might be deleted](help/deleted-answers).
+Thank you for this link, which might provide some limited, immediate help. An answer [should include sufficient context around the link](//meta.stackoverflow.com/a/8259) so your fellow users will have some idea what it is and why it’s there. Always quote the most relevant part of an important link, to make it more useful to future readers with other, similar questions. In addition, other users tend to respond negatively to answers which are [barely more than a link to an external site](//meta.stackexchange.com/q/225370), and they [might be deleted](//$SITEURL$/help/deleted-answers).
 
 ###[A] Answering off-topic / bad question
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](//meta.stackoverflow.com/q/276572)
