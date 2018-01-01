@@ -18,3 +18,6 @@ I'm voting to close this because questions about [app store policies are off-top
 
 ###[C] Apple iTunes Store Policy
 I'm voting to close this question because questions about [iTunes App Store policies are off-topic on $SITENAME$](//https://meta.stackoverflow.com/q/272165). Some questions may be on topic at [Apple.SE](//apple.stackexchange.com/help/on-topic)
+
+###[C] SW Dev Process & SW Eng
+I'm voting to close this question because questions about the software development process and software engineering, including quality assurance, architecture & design are off topic on $SITENAME$. You might try posting on [SoftwareEngineering.SE](//meta.stackoverflow.com/a/254571/1677912).
