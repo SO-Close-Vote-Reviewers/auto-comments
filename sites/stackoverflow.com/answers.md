@@ -19,6 +19,9 @@ Please don't add *"Me too"* as answers. It doesn't actually provide an answer to
 ###[A] Thanks!
 Please don't add _"thanks"_ as answers. They don't actually provide an answer to the question, and can be perceived as noise by its future visitors. Once you [earn](//meta.stackoverflow.com/q/146472) enough [reputation](//$SITEURL$/help/whats-reputation), you will gain privileges to [upvote answers](//$SITEURL$/help/privileges/vote-up) you like. This way future visitors of the question will see a higher vote count on that answer, and the answerer will also be rewarded with reputation points. See [Why is voting important](//$SITEURL$/help/why-vote).
 
+###[A] Begging for answer
+Posting follow-up requests as answers is not effective at attracting answerers. Read [What should I do if no one answers my question?](//stackoverflow.com/help/no-one-answers) for suggestions to get more attention.
+
 ###[A] Comment as answer
 This does not provide an answer to the question. To critique or request clarification from an author, leave a comment below their post. If you [earn](//meta.stackoverflow.com/q/146472) sufficient [reputation](//$SITEURL$/help/whats-reputation) you will be able to [comment on any post](//$SITEURL$/help/privileges/comment).
 
