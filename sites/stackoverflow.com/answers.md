@@ -52,6 +52,9 @@ Please don't post answers only pointing out a typographical issue or a missing c
 ###[A] Code as image
 [Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
 
+###[QA] Code improperly edited by non-OP user (Restore code first)
+@code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
+
 ###[A] Identical answers
 Please don't post identical answers to multiple questions. Post one good answer, then vote/flag to close the other questions as duplicates. If the question is not a duplicate, *tailor your answers to the question.*
 
