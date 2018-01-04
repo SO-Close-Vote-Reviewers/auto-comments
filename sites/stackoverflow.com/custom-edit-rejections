@@ -17,7 +17,10 @@ Do not edit off topic questions, unless it brings the question on topic.
 Do not edit to make minor grammar changes. Edit posts that need substantial improvements.
 
 ###[CRC] Bulk tag edits
-Do not make [bulk tag edits](https://meta.stackoverflow.com/questions/307928/needless-bulk-tag-edits).
+Do not make [bulk tag edits](//meta.stackoverflow.com/q/307928).
 
 ###[CRC] Attempt to Reply
 Do not edit answers to include your own information. Post another answer instead, addressing any issues.
+
+###[CRC] Code improperly edited by non-OP user (Restore code first)
+Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
