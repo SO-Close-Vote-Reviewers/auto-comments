@@ -19,7 +19,7 @@ Please [edit] your post to include any additional information you have to your q
 ###[Q] Code as image
 [Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
 
-###[QA] Code improperly edited by non-OP user (Restore code first)
+###[Q] Code improperly edited by non-OP user (Restore code first)
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
 
 ###[Q] "It doesn't work" with no exception/error details
