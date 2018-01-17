@@ -21,3 +21,6 @@ I'm voting to close this question because questions about [iTunes App Store poli
 
 ###[C] SW Dev Process & SW Eng
 I'm voting to close this question because questions about the software development process and software engineering, including quality assurance, architecture & design are off topic on $SITENAME$. You might try posting on [SoftwareEngineering.SE](//meta.stackoverflow.com/a/254571/1677912).
+
+###[C] Intent to hack or scrape from specific site, e.g. YouTube
+I'm voting to close this question as off-topic because question subject and content violate the [StackOverflow Terms of Service sect 3 c) and/or e)](http://stackexchange.com/legal/terms-of-service#3SubscriberContent) by targeting a specific organization with intent to expropriate proprietary data.
