@@ -32,7 +32,7 @@ There are too many ways to approach this problem. The answers would just turn in
 It seems you have a problem with your code. However, we can't help unless we have [code or information that can reproduce the problem](//$SITEURL$/help/mcve). Otherwise, we are just blindly guessing.
 
 ###[Q] "Need to make program" but no question
-All that has been posted is a program description. However, we need you to [ask a question](//$SITEURL$/help/how-to-ask). We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know [what is on-topic here](//$SITEURL$/help/on-topic), asking us to write the program for you and suggestions are off-topic.
+All that has been posted is a program description. However, we need you to [ask a question](//$SITEURL$/help/how-to-ask). We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know [what is on-topic here](//$SITEURL$/help/on-topic); asking us to write the program for you and suggestions are off-topic.
 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post [a minimal example of what needs to change](//$SITEURL$/help/mcve), and fully explain what needs to be modified.
