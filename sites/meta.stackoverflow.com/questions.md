@@ -6,3 +6,6 @@ Please note that burninating a tag is the process of carefully moderating a spec
 
 ###[Q] Meta to Main
 You are on [Meta](http://stackoverflow.com/help/whats-meta). This question will not be answered here and you may want to go over the [Checklist](https://$SITEURL$/questions/260648/stack-overflow-question-checklist) and [ask] before you repost on main. Please consider deleting this question.
+
+###[Q] Voting on meta is different
+[Voting on meta is different](https://stackoverflow.com/help/whats-meta). Votes are often used to express (dis)agreement with the general premise of the Meta question. These votes won't affect your mainsite reputation.
