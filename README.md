@@ -11,6 +11,6 @@ Want to have your options always be in sync with this repo? Follow the instructi
 If you have write access to this repository, please commit directly to master. This repo is meant to be a "community wiki" for auto-comments.
 
 
- [1]: http://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se
- [2]: http://stackoverflow.com/
- [3]: http://stackexchange.com/sites
+ [1]: https://stackapps.com/questions/2116/autoreviewcomments-pro-forma-comments-for-se
+ [2]: https://stackoverflow.com/
+ [3]: https://stackexchange.com/sites
