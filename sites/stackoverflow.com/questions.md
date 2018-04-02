@@ -14,7 +14,13 @@ Take a moment to read through the [editing help](//$SITEURL$/editing-help) in th
 The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouseover on the tags you are using when asking a question. Thank you!
 
 ###[Q] Ask OP to edit question instead of adding info in comments
-Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
+Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.  
+
+###[Q] Self Duplicates
+Don't ask duplicate questions.
+
+###[Q] Too Many Comments for Clarity
+Given the volume of comments needed to clarify the question, please edit the question to include all relevant details and attempts to solve the issue, until then the question is not complete.
 
 ###[Q] Code as image
 [Please don't post your code as an image.](//meta.stackoverflow.com/q/285551)
