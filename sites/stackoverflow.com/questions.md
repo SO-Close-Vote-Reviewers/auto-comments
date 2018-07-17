@@ -23,7 +23,7 @@ Don't ask duplicate questions.
 Given the volume of comments needed to clarify the question, please edit the question to include all relevant details and attempts to solve the issue, until then the question is not complete.
 
 ###[Q] Code as image
-[Please don't post your code as an image.](//meta.stackoverflow.com/q/285551). It's hard to read, prevents text-based searching, and lowers the overall presentation value of the post.
+[Please don't post your code as an image](//meta.stackoverflow.com/q/285551). It's hard to read, prevents text-based searching, and lowers the overall presentation value of the post.
 
 ###[Q] Code improperly edited by non-OP user (Restore code first)
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
