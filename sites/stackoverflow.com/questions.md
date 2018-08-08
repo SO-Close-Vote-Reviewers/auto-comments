@@ -4,9 +4,6 @@ Please do not vandalize your posts.  By posting on the Stack Exchange network, y
 ###[Q] Ask good!
 Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
 
-###[Q] Give me teh codez plz
-$SITENAME$ is not a free code writing service, please show your code/effort and what the actual problem is.
-
 ###[Q] Many formatting issues
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites. The better your post looks, the easier it is for others to read and understand it.
 
