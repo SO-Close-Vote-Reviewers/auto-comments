@@ -90,3 +90,6 @@ This  question is spam. Flag it as spam by ***clicking the "flag" link***!
 
 ###[Q] Spam!! (Punctuation)
 This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
+
+###[Q] Give me a regex that does X
+Questions that ask ["Give me a regex that does X"](https://meta.stackoverflow.com/questions/285733) with no attempt are off topic.
