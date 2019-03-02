@@ -44,7 +44,7 @@ While this link might provide some limited, immediate help, an answer [should in
 Please don't post answers on obviously off topic / bad questions! [See: **Should one advise on off topic questions?**](//meta.stackoverflow.com/q/276572)
 
 ###[A] Tool recommendation for a tool request
-Thank you for participating to Stack Overflow. However please note that the question you have answered is off-topic as per the [help/on-topic] since it is a tool request. Answers to such questions tend to be of [poor quality](//meta.stackexchange.com/a/8259) and quickly become stale (what might have been a good resource two years ago may simply not exist anymore). You can flag this question as off-topic by clicking the "flag" link once you have sufficient reputation.
+Thank you for participating on Stack Overflow. However please note that the question you have answered is off-topic as per the [help/on-topic] since it is a tool request. Answers to such questions tend to be of [poor quality](//meta.stackexchange.com/a/8259) and quickly become stale (what might have been a good resource two years ago may simply not exist anymore). You can flag this question as off-topic by clicking the "flag" link once you have sufficient reputation.
 
 ###[A] Pointing out a typo
 Please don't post answers only pointing out a typographical issue or a missing character. Such answers are unlikely to help future visitors since they are specific to OP's code. Instead, flag or vote to close the question as off-topic as per the [help/on-topic].
