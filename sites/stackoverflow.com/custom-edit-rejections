@@ -2,7 +2,7 @@
 If you're going to edit a post, fix all the issues not just some.
 
 ###[CRC] Bumping old posts
-Do not make minor edits to old posts. It bumps them to the front page.
+Do not make minor edits to old posts. It bumps them to the homepage.
 
 ###[CRC] `BackTicks`
 Do not edit just to add backticks. Edit posts that need substantial improvements.
@@ -10,17 +10,11 @@ Do not edit just to add backticks. Edit posts that need substantial improvements
 ###[CRC] Closed questions
 Do not edit closed questions, unless it brings the question on topic.
 
-###[CRC] Off Topic questions
-Do not edit off topic questions, unless it brings the question on topic.
-
 ###[CRC] Minor grammar
 Do not edit to make minor grammar changes. Edit posts that need substantial improvements.
 
 ###[CRC] Bulk tag edits
 Do not make [bulk tag edits](//meta.stackoverflow.com/q/307928).
-
-###[CRC] Attempt to Reply
-Do not edit answers to include your own information. Post another answer instead, addressing any issues.
 
 ###[CRC] Code improperly edited by non-OP user (Restore code first)
 Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
