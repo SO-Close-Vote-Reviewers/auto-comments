@@ -2,7 +2,7 @@
 Please do not vandalize your posts. By posting on the Stack Exchange network, you've granted a non-revocable right for Stack Exchange to distribute that content (under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/)). By Stack Exchange policy, any vandalism will be reverted.
 
 ###[Q] Ask good!
-Please see [ask] and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/).
+Please see the [ask] help page and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
 
 ###[Q] Many formatting issues
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than other sites. The better your post looks, the easier it is for others to read and understand it.
@@ -11,10 +11,7 @@ Take a moment to read through the [editing help](//$SITEURL$/editing-help) in th
 The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouseover on the tags you are using when asking a question.
 
 ###[Q] Ask OP to edit question instead of adding info in comments
-Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.  
-
-###[Q] Self Duplicates
-Don't ask duplicate questions.
+Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
 ###[Q] Too Many Comments for Clarity
 Given the volume of comments needed to clarify the question, please [edit] the question to include all relevant details and attempts to solve the issue, until then the question is not complete.
@@ -32,10 +29,10 @@ Can you elaborate on how your code "doesn't work"? What were you expecting, and 
 There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do.
 
 ###[Q] "Why won't it work?" questions with no code
-It seems you have a problem with your code. However, we can't help unless we have [code or information that can reproduce the problem](//$SITEURL$/help/mcve). Otherwise, we are just blindly guessing.
+It seems you have a problem with your code. However, we can't help unless we have a [mcve]. Otherwise, we are just blindly guessing.
 
 ###[Q] "Need to make program" but no question
-All that has been posted is a program description. However, we need you to [ask]. We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know what is on-topic here visiting the [help/on-topic]; asking us to write the program for you, suggestions, and external links are off-topic.
+All that has been posted is a program description. However, we need you to ask a question according to the [ask] page. We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know what is on-topic here by visiting the [help/on-topic]; asking us to write the program for you, suggestions, and external links are off-topic.
 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post a [mcve], and fully explain what needs to be modified.
@@ -86,10 +83,10 @@ Note we prefer a technical style of writing here. We gently discourage greetings
 Please be careful with linking to your own content on different sites, you don't want to be a [spammer](//$SITEURL$/help/promotion). You should not be linking to your website, unless it's necessary to the question. Use example.com as a domain name instead.
 
 ###[Q] Spam!!
-This  question is spam. Flag it as spam by ***clicking the "flag" link***!
+This question is spam. Flag it as spam by ***clicking the "flag" link***!
 
 ###[Q] Spam!! (Punctuation)
-This answer contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
+This question contains a hidden link in punctuation. It is spam and should be flagged by ***clicking the "flag" link***!
 
 ###[Q] Give me a regex that does X
 Questions that ask ["Give me a regex that does X"](https://meta.stackoverflow.com/q/285733) with no attempt are off topic.
