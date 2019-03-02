@@ -50,7 +50,7 @@ Thank you for participating on Stack Overflow. However please note that the ques
 Please don't post answers only pointing out a typographical issue or a missing character. Such answers are unlikely to help future visitors since they are specific to OP's code. Instead, flag or vote to close the question as off-topic as per the [help/on-topic].
 
 ###[A] Code as image
-[Please don't post your code as an image.](//meta.stackoverflow.com/q/285551).
+[Please don't post your code as an image](//meta.stackoverflow.com/q/285551).
 
 ###[A] Code improperly edited by non-OP user (Restore code first)
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245)
