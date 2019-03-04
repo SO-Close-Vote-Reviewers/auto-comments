@@ -17,7 +17,7 @@ The tags you have been using are not appropriate for this question. Please take 
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
 ###[Q] Data/Code as image
-Please add code and data as text ([using code formatting](//stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](//meta.stackoverflow.com/a/285557). In general, code/errors/data in text format >>>> code/errors/data as an image >> nothing. Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data.
+Please add code and data as text ([using code formatting](//stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](//meta.stackoverflow.com/a/285557). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data.
 
 ###[Q] Code improperly edited by non-OP user (Restore code first)
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245).
