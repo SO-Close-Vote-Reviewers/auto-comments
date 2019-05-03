@@ -1,5 +1,5 @@
 ###[A] Spam
-Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](http://$SITEURL$/help/advertising).
+Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
 ###[A] Garbage (non-intelligible gibberish or troll meaningless content)
 This is a garbage post by an 1-rep unregistered user without any meaningful contributions. [Flag as "Rude or abusive"](//meta.stackexchange.com/a/58035) to destroy it quickly without poorly seeding the spam detector.
@@ -32,7 +32,7 @@ Please take a moment to read through the [editing help](//$SITEURL$/editing-help
 Please don't add the same answer to multiple questions. Answer the best one and flag the rest as duplicates. See [Is it acceptable to add a duplicate answer to several questions?](//meta.stackexchange.com/q/104227)
 
 ###[A] Link only (SO link)
-This should be a comment, not an answer. If it is a duplicate question, [vote to close](//stackoverflow.com/help/privileges/close-questions) as such and/or leave a comment once you [earn](http://meta.stackoverflow.com/q/146472) enough [reputation](//stackoverflow.com/help/whats-reputation). If not, *tailor the answer to this specific question*.
+This should be a comment, not an answer. If it is a duplicate question, [vote to close](//stackoverflow.com/help/privileges/close-questions) as such and/or leave a comment once you [earn](//meta.stackoverflow.com/q/146472) enough [reputation](//stackoverflow.com/help/whats-reputation). If not, *tailor the answer to this specific question*.
 
 ###[A] Link only (SE link)
 Please don't post link-only answers to other Stack Exchange questions. Instead, include the essential portions of the answer here, and *tailor the answer to this specific question.*
