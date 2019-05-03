@@ -1,11 +1,11 @@
 ###[Q] Spam
-Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](http://$SITEURL$/help/advertising).
+Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
 ###[Q] Vandalism
 Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under the [CC BY-SA 3.0 license](//creativecommons.org/licenses/by-sa/3.0/), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
 
 ###[Q] Ask good!
-Please see the [ask] help page and [The perfect question](http://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
+Please see the [ask] help page and [The perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
 
 ###[Q] Many formatting issues
 Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than on other sites. The better your post looks, the easier it is for others to read and understand it.
@@ -62,10 +62,10 @@ Questions asking for homework help must include a summary of the work you've don
 Please read [Under what circumstances may I add “urgent” or other similar phrases to my question, in order to obtain faster answers?](//meta.stackoverflow.com/q/326569) - the summary is that this is not an ideal way to address volunteers, and is probably counterproductive to obtaining answers. Please refrain from adding this to your questions.
 
 ###[Q] Possible suicide Intl
-It sounds like you're going through a hard time. I'd really like to help you, but unfortunately, we're not well equipped to do so here. Your best option is probably to call [a suicide hotline](//suicide.org/international-suicide-hotlines.html). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. If calling is not good, you can [chat with them live online](//suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx). It might not help, but what’s the harm?
+It sounds like you're going through a hard time. I'd really like to help you, but unfortunately, we're not well equipped to do so here. Your best option is probably to call [a suicide hotline](//suicide.org/international-suicide-hotlines.html). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. If calling is not good, you can [chat with them live online](//suicidepreventionlifeline.org/chat/). It might not help, but what’s the harm?
 
 ###[Q] Possible suicide US
-It sounds like you’re going through a really hard time. I'd really like to help you, but unfortunately, we're not well-equipped to do so here. Your best option is probably to call the [National Suicide Prevention Lifeline](//suicidepreventionlifeline.org/). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. US: +1-800-273-8255. If calling is not good, they can [chat with you live online](http://suicidepreventionlifeline.org/GetHelp/LifelineChat.aspx). It might not help, but what’s the harm?
+It sounds like you’re going through a really hard time. I'd really like to help you, but unfortunately, we're not well-equipped to do so here. Your best option is probably to call the [National Suicide Prevention Lifeline](//suicidepreventionlifeline.org/). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. US: +1-800-273-8255. If calling is not good, they can [chat with you live online](//suicidepreventionlifeline.org/chat/). It might not help, but what’s the harm?
 
 ###[Q] Can someone help? not an actual question
 Questions that ask "please help me" tend to be looking for highly localized guidance, or in some cases, ongoing or private assistance, which is not suited to our Q&A format. It is also rather vague, and is better replaced with a more specific question. Please read [Why is “Can someone help me?” not an actual question?](//meta.stackoverflow.com/q/284236).
