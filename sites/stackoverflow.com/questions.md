@@ -32,10 +32,10 @@ There are too many ways to approach this problem. The answers would just turn in
 All that has been posted is a program description. However, we need you to ask a question according to the [ask] page. We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know what is on-topic here by visiting the [help/on-topic]; asking us to write the program for you, suggestions, and external links are off-topic.
 
 ###[Q] Need to make changes to existing (missing) code
-We won't know how to make the changes to your existing code base without seeing your original code. Please post a [mcve], and fully explain what needs to be modified.
+We won't know how to make the changes to your existing code base without seeing your original code. Please post a [mre], and fully explain what needs to be modified.
 
 ###[Q] Wall of code
-You seem to have posted more code than what would be reasonable for your issue. Please read [ask] and how to make a [mcve]; providing a MCVE helps users answer your question and future users relate to your issue.
+You seem to have posted more code than what would be reasonable for your issue. Please read [ask] and how to make a [mre]; providing a MRE helps users answer your question and future users relate to your issue.
 
 ###[Q] "Where do I start?" question
 Questions that ask "where do I start?" are typically too broad and are not a good fit for this site. People have their own method for approaching the problem and because of this there cannot be a _correct_ answer. Give a good read over [Where to Start](//softwareengineering.meta.stackexchange.com/a/6367) and [edit] your post.
@@ -44,7 +44,7 @@ Questions that ask "where do I start?" are typically too broad and are not a goo
 It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions.
 
 ###[Q] Asking for code translation
-$SITENAME$ is a Q&A site, not a code translation service. Try to translate the code yourself first, then come to us when you are stuck, making sure to show us what you have tried and create a [mcve].
+$SITENAME$ is a Q&A site, not a code translation service. Try to translate the code yourself first, then come to us when you are stuck, making sure to show us what you have tried and create a [mre].
 
 ###[Q] Non English question
 Please write your question in English, as [$SITENAME$ is an English only site.](//meta.stackexchange.com/q/13676)
@@ -68,7 +68,7 @@ It sounds like you're going through a hard time. I'd really like to help you, bu
 It sounds like you’re going through a really hard time. I'd really like to help you, but unfortunately, we're not well-equipped to do so here. Your best option is probably to call the [National Suicide Prevention Lifeline](//suicidepreventionlifeline.org/). People are on call there to talk to people struggling with the same kind of issues you are, regardless of location. US: +1-800-273-8255. If calling is not good, they can [chat with you live online](//suicidepreventionlifeline.org/chat/). It might not help, but what’s the harm?
 
 ###[Q] Can someone help? not an actual question
-Questions that ask "please help me" tend to be looking for highly localized guidance, or in some cases, ongoing or private assistance, which is not suited to our Q&A format. It is also rather vague, and is better replaced with a more specific question. Please read [Why is “Can someone help me?” not an actual question?](//meta.stackoverflow.com/q/284236).
+Questions that ask "please help me" tend to be looking for highly localized guidance, or in some cases, ongoing or private assistance, which is not suited to our Q&A format. It is also rather vague, and is better replaced with a more specific question. Please read [Why is "Can someone help me?" not an actual question?](//meta.stackoverflow.com/q/284236).
 
 ###[Q] Gender assumptions of readers
 Please try to avoid gender assumptions about software engineers, as it can be unwelcoming. We tend to trim greetings and salutations anyway.
