@@ -23,7 +23,7 @@ Please add code and data as text ([using code formatting](//stackoverflow.com/ed
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245).
 
 ###[Q] "It doesn't work" with no exception/error details
-Can you elaborate on how your code "doesn't work"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details which can be done with a [mcve]. Please [edit] your question to add these details into it or we may not be able to help.
+Can you elaborate on how your code "doesn't work"? What were you expecting, and what actually happened? If you got an exception/error, post the line it occurred on and the exception/error details which can be done with a [mre]. Please [edit] your question to add these details into it or we may not be able to help.
 
 ###[Q] Too many ways to solve the problem
 There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do.
