@@ -1,5 +1,5 @@
 ###[A] Spam
-Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
+Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//www.stackoverflowbusiness.com/advertising).
 
 ###[A] Garbage (non-intelligible gibberish or troll meaningless content)
 This is a garbage post by an 1-rep unregistered user without any meaningful contributions. [Flag as "Rude or abusive"](//meta.stackexchange.com/a/58035) to destroy it quickly without poorly seeding the spam detector.
