@@ -2,7 +2,7 @@
 Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
 
 ###[Q] Vandalism
-Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under the [CC BY-SA 3.0 license](//creativecommons.org/licenses/by-sa/3.0/), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
+Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under the [CC BY-SA 4.0 license](//creativecommons.org/licenses/by-sa/4.0/), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
 
 ###[Q] Ask good!
 Please see the [ask] help page and [The perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
