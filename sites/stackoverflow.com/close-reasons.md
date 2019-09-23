@@ -8,7 +8,7 @@ I'm voting to close this question as off-topic because [licensing advice is off-
 I'm voting to close this question as off-topic because [we are not customer support for your favourite company](//meta.stackoverflow.com/questions/255745).
 
 ###[C] SEO
-I'm voting to close this question as off-topic because [it is about SEO, not programming](//meta.stackoverflow.com/a/382618). General SEO questions may be asked on [Webmasters.SE](//webmasters.stackexchange.com/).
+This question appears to be off-topic because it is about SEO which is off-topic at Stack Overflow. Please read "[Which SEO questions should be closed as non-programming/non-admin?](//meta.stackoverflow.com/a/382618)" to better understand when SEO questions are acceptable to ask here (most are not). General SEO questions may be asked on [Webmasters.SE](//webmasters.stackexchange.com/).
 
 ###[C] Project Management
 I'm voting to close this question because [project management is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/343841) You can ask these questions on [SoftwareEngineering.SE](//softwareengineering.stackexchange.com) and [ProjectManagement.SE](//pm.stackexchange.com).
