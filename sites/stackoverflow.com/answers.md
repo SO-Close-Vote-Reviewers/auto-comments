@@ -65,7 +65,7 @@ I know you're excited, but please try to keep your language under control. Think
 Please be careful with linking to your own content on different sites, you don't want to be a [spammer](//$SITEURL$/help/promotion). You should be including the majority of the content here, and use the link only as a reference.
 
 ###[A] Vandalize your post
-Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under the [CC BY-SA license](//stackoverflow.com/help/licensing), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
+Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under a [CC BY-SA license (2.5/3.0/4.0)](//stackoverflow.com/help/licensing), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
 
 ###[A] Profanity
 [Be Nice](//$SITEURL$/help/be-nice). Do not use profanity gratuitously on the site.
