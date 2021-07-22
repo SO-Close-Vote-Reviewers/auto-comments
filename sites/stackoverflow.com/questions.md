@@ -29,7 +29,7 @@ Can you elaborate on how your code "doesn't work"? What were you expecting, and 
 There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do.
 
 ###[Q] "Need to make program" but no question
-All that has been posted is a program description. However, we need you to ask a question according to the [ask] page. We can't be sure what you want from us. Please [edit] your post to include a valid question that we can answer. Reminder: make sure you know what is on-topic here by visiting the [help/on-topic]; asking us to write the program for you, suggestions, and external links are off-topic.
+All that has been posted is a program description, but that doesn't tell us what _problem_ you're having. What have you tried, and what troubles did you encounter? Please [edit] your post to include a [valid question](//$SITEURL$/help/how-to-ask) that we can answer. Reminder: make sure you know what is [on-topic]((//$SITEURL$/help/on-topic); asking us to write the program for you, suggestions, and external links are off-topic.
 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post a [mre], and fully explain what needs to be modified.
