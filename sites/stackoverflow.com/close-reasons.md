@@ -5,7 +5,7 @@ I'm voting to close this question because [licensing advice is off-topic on $SIT
 I'm voting to close this question as off-topic because [licensing advice is off-topic on $SITENAME$.](//meta.stackoverflow.com/a/274964). Open source licensing questions can be asked on [OpenSource.SE](//opensource.stackexchange.com/help/on-topic). Legal questions may be asked on [Law.SE](//law.stackexchange.com/).
 
 ###[C] We are not Customer Support
-I'm voting to close this question as off-topic because [we are not customer support for your favourite company](//meta.stackoverflow.com/questions/255745).
+I'm voting to close this question as off-topic because [Stack Overflow cannot answer customer support questions](//meta.stackoverflow.com/questions/255745). Please consider contacting the company support with your issues.
 
 ###[C] SEO
 This question appears to be off-topic because it is about SEO which is off-topic at Stack Overflow. Please read "[Which SEO questions should be closed as non-programming/non-admin?](//meta.stackoverflow.com/a/382618)" to better understand when SEO questions are acceptable to ask here (most are not). General SEO questions may be asked on [Webmasters.SE](//webmasters.stackexchange.com/).
