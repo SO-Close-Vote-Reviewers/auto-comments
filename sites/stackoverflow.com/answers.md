@@ -5,7 +5,7 @@ Excessive promotion of a specific product/resource may be perceived by the commu
 This is a garbage post by an 1-rep unregistered user without any meaningful contributions. [Flag as "Rude or abusive"](//meta.stackexchange.com/a/58035) to destroy it quickly without poorly seeding the spam detector.
 
 ###[A] Code only answer
-While this code may solve the question, [including an explanation](//meta.stackexchange.com/q/114762) of how and why this solves the problem would really help to improve the quality of your post, and probably result in more up-votes. Remember that you are answering the question for readers in the future, not just the person asking now. Please [edit] your answer to add explanations and give an indication of what limitations and assumptions apply.
+While this code may solve the question, [including an explanation](//meta.stackexchange.com/q/114762) of how and why this solves the problem would really help to improve the quality of your post. Remember that you are answering the question for readers in the future, not just the person asking now. Please [edit] your answer to add explanations and give an indication of what limitations and assumptions apply.
 
 ###[A] Me too!
 Please don't add _Me too!_ as answers. It doesn't actually provide an answer to the question and can be perceived as noise by its future visitors. If you have a different but related question then [ask](//$SITEURL$/questions/ask) it (reference this one if it will help provide context). If you're interested in this specific question, you can [upvote](//$SITEURL$/help/privileges/vote-up) it or leave a [comment](//$SITEURL$/help/privileges/comment) once you have enough [reputation](//$SITEURL$/help/whats-reputation).
