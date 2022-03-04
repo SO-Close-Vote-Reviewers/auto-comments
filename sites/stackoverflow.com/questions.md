@@ -1,23 +1,23 @@
 ###[Q] Spam
-Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](//$SITEURL$/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](//$SITEURL$/help/promotion) and [How do I advertise on $SITENAME$?](//$SITEURL$/help/advertising).
+Excessive promotion of a specific product/resource may be perceived by the community as **spam**. Take a look at the [help], specially [What kind of behavior is expected of users?](/help/behavior)'s last section: _Avoid overt self-promotion_. You might also be interested in [How to not be a spammer](/help/promotion) and [How do I advertise on $SITENAME$?](/help/advertising).
 
 ###[Q] Vandalism
 Please don't make more work for other people by vandalizing your posts. By posting on the Stack Exchange network, you've granted a non-revocable right, under the [CC BY-SA 4.0 license](//creativecommons.org/licenses/by-sa/4.0/), for Stack Exchange to distribute that content (i.e. regardless of your future choices). By Stack Exchange policy, the non-vandalized version of the post is the one which is distributed. Thus, any vandalism will be reverted. If you want to know more about deleting a post please see: [How does deleting work?](//meta.stackexchange.com/q/5221)
 
 ###[Q] Ask good!
-Please see the [ask] help page and [The perfect question](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
+Please see the [ask] help page and [The perfect question](//codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/) blog post by Jon Skeet.
 
 ###[Q] Many formatting issues
-Take a moment to read through the [editing help](//$SITEURL$/editing-help) in the help center. Formatting on $SITENAME$ is different than on other sites. The better your post looks, the easier it is for others to read and understand it.
+Take a moment to read through the [editing help](/editing-help) in the help center. Formatting on $SITENAME$ is different than on other sites. The better your post looks, the easier it is for others to read and understand it.
 
 ###[Q] Wrong tags
-The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](//$SITEURL$/help/tagging) and [edit] your post. Remember to at least read the mouseover on the tags you are using when asking a question.
+The tags you have been using are not appropriate for this question. Please take the [tour], review [what are tags and how should I use them?](/help/tagging) and [edit] your post. Remember to at least read the mouseover on the tags you are using when asking a question.
 
 ###[Q] Ask OP to edit question instead of adding info in comments
 Please [edit] your post to include any additional information you have to your question. Avoid adding this in the comments, as they are harder to read and can be deleted easier. The edit button for your post is just below the post's tags.
 
 ###[Q] Data/Code as image
-Please add code and data as text ([using code formatting](//stackoverflow.com/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](//meta.stackoverflow.com/a/285557). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data.
+Please add code and data as text ([using code formatting](/editing-help#code)), not images. Images: A) don't allow us to copy-&-paste the code/errors/data for testing; B) don't permit searching based on the code/error/data contents; and [many more reasons](//meta.stackoverflow.com/a/285557). Images should only be used, in addition to text in code format, if having the image adds something significant that is not conveyed by just the text code/error/data.
 
 ###[Q] Code improperly edited by non-OP user (Restore code first)
 @code-editor Edits to others' code may invalidate questions and answers. Please read [When should I make edits to code?](//meta.stackoverflow.com/q/260245).
@@ -29,7 +29,7 @@ Can you elaborate on how your code "doesn't work"? What were you expecting, and 
 There are too many ways to approach this problem. The answers would just turn into a straw-poll for which one people liked. The best thing is to do some research on the topic yourself, find two or three, _analyze_ them, determine if they work for you or not, and _try them out_. Come to us when you have a specific question about something you have attempted to do.
 
 ###[Q] "Need to make program" but no question
-All that has been posted is a program description, but that doesn't tell us what _problem_ you're having. What have you tried, and what troubles did you encounter? Please [edit] your post to include a [valid question](//$SITEURL$/help/how-to-ask) that we can answer. Reminder: make sure you know what is [on-topic](//$SITEURL$/help/on-topic); asking us to write the program for you, suggestions, and external links are off-topic.
+All that has been posted is a program description, but that doesn't tell us what _problem_ you're having. What have you tried, and what troubles did you encounter? Please [edit] your post to include a [valid question](/help/how-to-ask) that we can answer. Reminder: make sure you know what is [on-topic](/help/on-topic); asking us to write the program for you, suggestions, and external links are off-topic.
 
 ###[Q] Need to make changes to existing (missing) code
 We won't know how to make the changes to your existing code base without seeing your original code. Please post a [mre], and fully explain what needs to be modified.
