@@ -47,7 +47,7 @@ It is preferred if you can post separate questions instead of combining your que
 $SITENAME$ is a Q&A site, not a code translation service. Try to translate the code yourself first, then come to us when you are stuck, making sure to show us what you have tried and create a [mre].
 
 ###[Q] Non English question
-Please write your question in English, as [$SITENAME$ is an English only site.](//meta.stackexchange.com/q/13676)
+Please write your question in English, as [$SITENAME$ is an English only site.](//meta.stackexchange.com/q/13676). There are other versions of Stack Overflow in [Português](//pt.stackoverflow.com), [Español](//es.stackoverflow.com), [русский](//ru.stackoverflow.com), and [日本語](//ja.stackoverflow.com).
 
 ###[Q] Software Rec. question
 Unfortunately, questions asking us to recommend or find a book, tool, software library, tutorial or other off-site resource are off-topic here. However, you may find better luck [SoftwareRecs.SE](//softwarerecs.stackexchange.com/tour). Remember to read [their question requirements](//softwarerecs.stackexchange.com/help/on-topic) as they are more strict than this site!
