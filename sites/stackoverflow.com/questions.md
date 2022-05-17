@@ -78,3 +78,9 @@ Note that we prefer a technical style of writing here. We gently discourage gree
 
 ###[Q] Give me a regex that does X
 Questions that ask ["Give me a regex that does X"](//meta.stackoverflow.com/q/285733) with no attempt are off topic on Stack Overflow.
+
+###[Q] Parsing html with regex
+[Please don't try to parse HTML with regex. Use an HTML parser instead.](//stackoverflow.com/a/1732454)
+
+###[Q] (Generic) SQL Injection - author using string to build command
+Do not use string concatenation to create an SQL command. Use parameterized statements. See [why it's a bad idea and how to fix it](//bobby-tables.com).
