@@ -6,6 +6,3 @@ What do you mean by "not working"? Do you get any errors? Add [error reporting](
 
 ###[Q] (PHP) SQL Injection
 [Your script is at risk for SQL Injection Attacks.](//stackoverflow.com/q/60174)
-
-###[Q] (PHP) Parsing html with regex
-[Please don't try to parse HTML with regex. Use an HTML parser instead.](//stackoverflow.com/a/1732454)
