@@ -84,3 +84,6 @@ Questions that ask ["Give me a regex that does X"](//meta.stackoverflow.com/q/28
 
 ###[Q] (Generic) SQL Injection - author using string to build command
 Do not use string concatenation to create an SQL command. Use parameterized statements. See [why it's a bad idea and how to fix it](//bobby-tables.com).
+
+###[Q] Show your code, not tell
+Rather than _describing_ your code, it would be better to _show_ your code with a [mre].
