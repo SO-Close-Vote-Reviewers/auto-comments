@@ -16,6 +16,9 @@ Please don't add _"thanks"_ as answers. They don't actually provide an answer to
 ###[A] Begging for answer
 Posting follow-up requests as answers is not effective at attracting answerers. Read [What should I do if no one answers my question?](//stackoverflow.com/help/no-one-answers) for suggestions to get more attention.
 
+###[A] Addtional info by OP instead of editing the question
+Please use the *Post answer* button only for actual answers. You should modify the original post to add additional information.
+
 ###[A] NAAs by < 50 rep
 This does not provide an answer to the question. You can [search for similar questions](/search), or refer to the related and linked questions on the right-hand side of the page to find an answer. If you have a related but different question, [ask a new question](/questions/ask), and include a link to this one to help provide context. See: [Ask questions, get answers, no distractions](/tour)
 
