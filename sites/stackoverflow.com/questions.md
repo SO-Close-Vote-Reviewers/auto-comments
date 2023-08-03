@@ -87,3 +87,9 @@ Do not use string concatenation to create an SQL command. Use parameterized stat
 
 ###[Q] Show your code, not tell
 Rather than _describing_ your code, it would be better to _show_ your code with a [mre].
+
+###[Q] External Repo
+Questions that require reviewing content on a website or other external sources are off-topic here. When a link becomes obsolete, the question is no longer useful to future readers. We are trying to build a lasting repository of useful question/answer pairs here. Please review [Something in my web site or project doesn't work. Can I just paste a link to it?](https://meta.stackoverflow.com/questions/254428/) for more information.
+
+###[Q] Revise Title
+Please [edit] the title of your question to be descriptive, unambiguous, and specific to what you are asking. For more guidance, see [How do I write a good title?](https://meta.stackexchange.com/q/10647)
