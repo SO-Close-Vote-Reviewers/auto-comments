@@ -1,6 +1,6 @@
 # SO Close Vote Reviewers | Auto Comments Listing
 
-This repository holds [Auto Comments][1]<sup>([Machavity fork](https://github.com/machavity/SE-AutoReviewComments/blob/master/dist/autoreviewcomments.user.js))</sup> for use on [Stack Overflow][2] (and [other Stack Exchange sites][3]).
+This repository holds [Auto Comments][1]<sup>([User Script](https://github.com/Benjol/SE-AutoReviewComments/blob/master/dist/autoreviewcomments.user.js))</sup> for use on [Stack Overflow][2] (and [other Stack Exchange sites][3]).
 
 The comments are in a raw format so you can copy&paste them into the "import/export" window.
 
